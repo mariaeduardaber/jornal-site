@@ -1,0 +1,56 @@
+.navegacao{
+    list-style-type: none;
+    font-size:35px;
+    justify-content: space-around;
+    display: flex;
+    background-color: rgb(41, 3, 77);
+    color: white;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+
+}
+.paragrafo1{
+    font-size: 30px;
+    display: flex;
+}
+
+.paragrafo2{
+    font-size:30px;
+  
+}
+
+.paragrafo3{
+    font-size:30px;
+}
+
+.foto1{
+    display: flex;
+}
+
+.foto2{
+    display: flex;
+}
+
+.foto3{
+    display: flex;
+}
+
+.cabecalho{
+   background-size: cover;
+}
+
+.rodape{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    background-position: center;
+    text-align: center;
+    align-items: center;
+}
+
